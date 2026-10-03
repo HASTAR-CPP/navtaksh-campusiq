@@ -1,0 +1,16 @@
+Datasets/
+database/
+raw_data/
+datasets/
+models/
+
+
+__pycache__/
+
+
+functions_search.html
+note.txt
+**/note.txt
+
+SCARD/Phase 1/
+
